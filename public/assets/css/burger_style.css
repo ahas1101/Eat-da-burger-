@@ -1,7 +1,7 @@
 body {
   background-color: #5da82f;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  border: 20px solid red;
+  border: 20px solid rgba(25, 0, 255, 0.411);
 }
 
 img {
@@ -9,10 +9,10 @@ img {
 }
 
 .red_font {
-  color: #bc001f;
+  color: lightskyblue;
 }
 
 .tiny_text {
   font-size: 11px;
-  color: #5da82f;
+  color: #55a82f;
 }
