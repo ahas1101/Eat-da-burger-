@@ -16,4 +16,4 @@ values
 insert into burgers
   (burger_name)
 values
-  ('onion  Burger');
+  (onion  Burger');
